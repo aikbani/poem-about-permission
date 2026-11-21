@@ -11,15 +11,14 @@ POEM = """The Blue Shirt
 The agent folds everything,
 sheets, shirts, small socks.
 It holds up the blue shirt
-he outgrew, and asks,
+my son outgrew, and asks,
 shall I fold this too?
 No.
 I take it back
 and fold it myself,
-crease by crease.
-Some things are not chores.
-They are how I say
-I was here."""
+crease by crease,
+the way his shoulders
+used to fill it."""
 
 
 def main() -> None:
